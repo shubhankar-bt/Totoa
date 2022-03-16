@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253856203260",
+    "project_id": "totoa-d51ba",
+    "storage_bucket": "totoa-d51ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253856203260:android:e7496acf2808526f7bb279",
+        "android_client_info": {
+          "package_name": "com.shubhankaranku.totoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253856203260-c3l6722fs354lban5rbh4vom3ajva6c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCl_xT2g9wrIi7wdR4e4Ja9pHko0z_T88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253856203260-c3l6722fs354lban5rbh4vom3ajva6c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
